@@ -58,7 +58,7 @@ class AboutScreen extends StatelessWidget {
                     ),
                     const SizedBox(height: 12),
                     InkWell(
-                      onTap: () => _launchUrl('https://github.com/YOUR_GITHUB_USERNAME/electricity_bill_estimator'),
+                      onTap: () => _launchUrl('https://github.com/MohammedHaydar1/electricity_bill_estimator'),
                       child: const Row(
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [

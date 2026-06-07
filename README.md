@@ -67,7 +67,7 @@ electricity_bill_estimator/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/electricity_bill_estimator.git
+git clone https://github.com/MohammedHaydar1/electricity_bill_estimator
 ```
 
 2. Navigate to the project folder
@@ -105,10 +105,10 @@ flutter run
 
 ## 👤 Developer
 
-- **Name:** Your Full Name
-- **Student ID:** YOUR_STUDENT_ID
-- **Course:** Mobile Technology (YOUR_COURSE_CODE)
+- **Name:** Mohammed Haydar Othman
+- **Student ID:** QIU23-0421
+- **Course:** Mobile Technology and Devlopment ICT602
 
 ## 📄 License
 
-© 2024 Your Full Name. All rights reserved.
+© 2026 Mohammed Haydar Othman. All rights reserved.
