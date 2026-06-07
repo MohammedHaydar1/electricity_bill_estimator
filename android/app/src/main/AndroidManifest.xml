@@ -7,7 +7,7 @@
     </intent>
 </queries>
     <application
-        android:label="electricity_bill_estimator"
+        android:label="E-Bill Estimator"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
