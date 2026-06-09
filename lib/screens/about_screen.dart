@@ -31,7 +31,7 @@ class AboutScreen extends StatelessWidget {
                       backgroundColor: AppTheme.primary,
                       // Replace 'assets/images/profile.jpg' with your actual photo
                       backgroundImage: const AssetImage('assets/images/profile.jpg'),
-                      onBackgroundImageError: (_, _e) {},
+                      onBackgroundImageError: (_, e) {},
                      //child: const Icon(Icons.person, size: 52, color: Colors.white),
                     ),
                     const SizedBox(height: 16),

@@ -200,7 +200,7 @@ class _DetailScreenState extends State<DetailScreen> {
               child: Column(
                 children: [
                   DropdownButtonFormField<String>(
-                    value: _editMonth,
+                    initialValue: _editMonth,
                     decoration: const InputDecoration(
                       labelText: 'Month',
                       prefixIcon: Icon(Icons.calendar_month),

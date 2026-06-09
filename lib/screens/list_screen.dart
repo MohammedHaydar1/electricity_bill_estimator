@@ -61,7 +61,7 @@ class _ListScreenState extends State<ListScreen> {
           return ListView.separated(
             padding: const EdgeInsets.all(16),
             itemCount: bills.length,
-            separatorBuilder: (_, __) => const SizedBox(height: 8),
+            separatorBuilder: (_, _) => const SizedBox(height: 8),
             itemBuilder: (context, index) {
               final bill = bills[index];
               return Card(
